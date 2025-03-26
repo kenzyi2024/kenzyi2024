@@ -19,17 +19,6 @@ Welcome to my GitHub profile! I'm a highly motivated **Computer Science student*
   **B.S. in Computer Science** — Expected Graduation: May 2027  
   *Related Coursework*: Computing in Python, Object-Oriented Programming, Principles of Computer Science, Analytic Geometry and Calculus II.
 
-## 🧑‍💻 Experience:
-### **Software Engineering Intern**  
-**Ultatel** (Herndon, Virginia) — May 2024 – Aug 2024
-- Developed and deployed new features using **HTML**, **CSS**, **JavaScript**, and **TypeScript**, improving page load times by 15%.
-- Integrated a new user authentication system and a third-party payment gateway.
-
-### **U.S. Ambassador**  
-**TechGirls** (Blacksburg, Virginia) — Jun 2022 – Jul 2022  
-- Selected as one of 25 U.S. ambassadors for the TechGirls program focused on empowering young women in STEM.
-- Participated in a virtual job shadowing program with PayPal and gained hands-on experience in Python workshops.
-
 ## 🚀 Projects:
 ### **Study Buddy Steve**  
 *Current Project*  
@@ -43,9 +32,6 @@ A fitness app that offers 50+ customizable workouts and integrates gamification 
 *Team Lead* — Aug 2022 – Dec 2022  
 Led the development of a website to help senior citizens identify and avoid online scams, reducing reported scam incidents by 25%.
 
-## ⚡ Fun fact:
-- I once built a **Python-powered email scanning tool** to detect phishing attempts, protecting over 100 seniors from online scams!
-
 ## 🧰 My Tools:
 Here are some of the tools I enjoy using in my projects:
 - **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white), ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white), ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?logo=html5&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -56,11 +42,6 @@ Here are some of the tools I enjoy using in my projects:
 - **Email**: kenzyi2024@gmail.com
 - **Phone**: (703)-814-3142
 - **LinkedIn**: [kenzy-ibrahim](https://www.linkedin.com/in/kenzy-ibrahim-010287246/)
-
-## 🎓 Activities & Leadership:
-### **Hackathon Organizing Committee Member**  
-**PatriotHacks** (Fairfax, Virginia) — Aug 2024 – Oct 2024  
-Contributed to making the hackathon accessible to first-year students, increasing beginner participation by 20%.
 
 ---
 
