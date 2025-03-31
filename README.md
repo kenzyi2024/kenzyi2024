@@ -6,13 +6,9 @@ Welcome to my GitHub profile! I'm a highly motivated **Computer Science student*
 - **Study Buddy Steve** – A web app that helps students generate a personalized semester planner. By simply uploading their syllabi, the app automatically creates a calendar that organizes assignments, exams, and important dates for the entire semester. Built with **React**, **Node.js**, and **MongoDB**.
 - **Secure Seniors** – A website designed to protect senior citizens from online scams by scanning emails and providing cybersecurity education.
 
-## 🌱 I'm currently learning:
-- Exploring advanced features in **ReactJS**, **Node.js**, and **Tailwind CSS** to build more efficient web applications.
-- Enhancing my knowledge of **Machine Learning** and **Natural Language Processing (NLP)**.
-
 ## 💬 Ask me about:
 - **Languages/Technologies**: Python, Java, JavaScript, ReactJS, Node.js, TypeScript, HTML/CSS.
-- **Tools**: GitHub, Visual Studio Code, MongoDB, Agile, Figma, API integration.
+- **Tools**: GitHub, Visual Studio Code, Figma, API integration.
 
 ## 📚 Education:
 - **George Mason University** (Fairfax, Virginia)  
@@ -27,10 +23,6 @@ A web app that helps students generate a personalized semester planner. By simpl
 ### **Cyber Pump**  
 *Team Member* — Oct 2024  
 A fitness app that offers 50+ customizable workouts and integrates gamification elements to encourage activity.
-
-### **Secure Seniors**  
-*Team Lead* — Aug 2022 – Dec 2022  
-Led the development of a website to help senior citizens identify and avoid online scams, reducing reported scam incidents by 25%.
 
 ## 🧰 My Tools:
 Here are some of the tools I enjoy using in my projects:
