@@ -12,7 +12,6 @@ Welcome to my GitHub profile! I'm a highly motivated **Computer Science student*
 
 ## 💻 Currently working on:
 - **Syllabi Calender Converter** – A web application designed to streamline semester planning for students. By uploading their course syllabi, users receive a personalized academic calendar that automatically organizes assignments, exams, and key deadlines—making it easier to stay on track throughout the semester.
-- **Halal Food Finder** - A web and mobile application that helps users quickly discover halal food options nearby. Whether you're at home or traveling, the app provides location-based recommendations to ensure you always have access to halal dining.
 - **LinkedIn Message Extension** - A Chrome extension that enhances your networking experience on LinkedIn. When connecting with someone new, it automatically analyzes both profiles to craft a personalized message based on shared interests, background, or experiences; helping foster deeper and more meaningful professional relationships.
 
 ## 🔧 My Tools:
